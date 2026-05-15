@@ -1,4 +1,4 @@
-# 
+# automatic NFT Wash Trading Bot for opensea sniper bot | floor-sweeping & wash-trading-detection offers the most advanced opensea sniper bot, with floor-sweeping and
 
 
 
